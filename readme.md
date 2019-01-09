@@ -1,4 +1,4 @@
-## Spring 2018 Group Meeting and Pmag/Geomag Seminar
+## Spring 2019 Silicate Weathering Seminar
 
 Time location TBD
 
