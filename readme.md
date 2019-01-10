@@ -17,4 +17,7 @@ Time location TBD
 |Week 11| Goddéris et al. (2017) Onset and ending of the late Palaeozoic ice age triggered by tectonically paced rock weathering https://doi.org/10.1038/NGEO2931|
 |Week 12| Maffre et al. (2018) Mountain ranges, climate and weathering. Do orogens strengthen or weaken the silicate weathering carbon sink? https://doi.org/10.1016/j.epsl.2018.04.034|
 |Week 13| Michalopoulos and Aller (1995) Rapid Clay Mineral Formation in Amazon Delta Sediments: Reverse Weathering and Oceanic Elemental Cycles https://doi.org/10.1126/science.270.5236.614|
-|Week 14| Brady and Gislason (1997) Seafloor weathering controls on atmospheric CO2 and global climate https://doi.org/10.1016/S0016-7037(96)00385-7|
+|Week 14| Brady and Gislason (1997) Seafloor weathering controls on atmospheric CO2 and global climate https://doi.org/10.1016/S0016-7037(96)00385-7; Dunlea et al. (2017) Cenozoic global cooling and increased seawater Mg/Ca via reduced reverse weathering https://doi.org/10.1038/s41467-017-00853-5|
+
+Other papers to potentially swap with ones on list:
+- Coogan and Gillis (2013) Evidence that low‐temperature oceanic hydrothermal systems play an important role in the silicate‐carbonate weathering cycle and long‐term climate regulation https://doi.org/10.1002/ggge.20113 
