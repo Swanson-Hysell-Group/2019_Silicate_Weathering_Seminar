@@ -14,6 +14,7 @@ Time location TBD
 |Week 8| Riebe et al. (2004) Erosional and climatic effects on long-term chemical weathering rates in granitic landscapes spanning diverse climate regimes https://doi.org/10.1016/j.epsl.2004.05.019|
 |Week 9| Maher and Chamberlain (2014) Hydrologic Regulation of Chemical Weathering and the Geologic Carbon Cycle. http://dx.doi.org/10.1126/science.1250770|
 |Week 10| Gabet and Mudd (2009) A theoretical model coupling chemical weathering rates with denudation rates https://doi.org/10.1130/G25270A.1; West (2012) Thickness of the chemical weathering zone and implications for erosional and climatic drivers of weathering and for carbon-cycle feedbacks. https://doi.org/10.1130/G33041.1|
-|Week 11| Maffre et al. (2018) Mountain ranges, climate and weathering. Do orogens strengthen or weaken the silicate weathering carbon sink? https://doi.org/10.1016/j.epsl.2018.04.034|
-|Week 12| Michalopoulos and Aller (1995) Rapid Clay Mineral Formation in Amazon Delta Sediments: Reverse Weathering and Oceanic Elemental Cycles https://doi.org/10.1126/science.270.5236.614|
-|Week 13| Brady and Gislason (1997) Seafloor weathering controls on atmospheric CO2 and global climate https://doi.org/10.1016/S0016-7037(96)00385-7|
+|Week 11| Goddéris et al. (2017) Onset and ending of the late Palaeozoic ice age triggered by tectonically paced rock weathering https://doi.org/10.1038/NGEO2931|
+|Week 12| Maffre et al. (2018) Mountain ranges, climate and weathering. Do orogens strengthen or weaken the silicate weathering carbon sink? https://doi.org/10.1016/j.epsl.2018.04.034|
+|Week 13| Michalopoulos and Aller (1995) Rapid Clay Mineral Formation in Amazon Delta Sediments: Reverse Weathering and Oceanic Elemental Cycles https://doi.org/10.1126/science.270.5236.614|
+|Week 14| Brady and Gislason (1997) Seafloor weathering controls on atmospheric CO2 and global climate https://doi.org/10.1016/S0016-7037(96)00385-7|
