@@ -5,8 +5,8 @@ Time location TBD
 | Meeting Date | Reading |
 |--------------|--------------|
 |Week 1| Walker et al. (1981) A negative feedback mechanism for the long‐term stabilization of Earth's surface temperature. https://doi.org/10.1029/JC086iC10p09776|
-|Week 2| Raymo and Ruddiman (1992) Tectonic Forcing of Late Cenozoic Climate https://doi.org/10.1038/359117a0 ; Kump and Arthur (1997) Global Chemical Erosion during the Cenozoic: Weatherability Balances the Budgets. http://dx.doi.org/10.1007/978-1-4615-5935-1_18|
-|Week 3| France-Lanord and Derry (1997) Organic carbon burial forcing of the carbon cycle from Himalayan erosion |
+|Week 2| Raymo and Ruddiman (1992) Tectonic Forcing of Late Cenozoic Climate https://doi.org/10.1038/359117a0; Kump and Arthur (1997) Global Chemical Erosion during the Cenozoic: Weatherability Balances the Budgets. http://dx.doi.org/10.1007/978-1-4615-5935-1_18|
+|Week 3| France-Lanord and Derry (1997) Organic carbon burial forcing of the carbon cycle from Himalayan erosion https://doi.org/10.1038/36324|
 |Week 4| Gaillardet et al. (1999) Global silicate weathering and CO2 consumption rates deduced from the chemistry of large rivers. https://doi.org/10.1016/S0009-2541(99)00031-5|
 |Week 5| Dessert et al. (2003) Basalt weathering laws and the impact of basalt weathering on the global carbon cycle. https://doi.org/10.1016/j.chemgeo.2002.10.001 ; Li et al. (2016) Temperature dependence of basalt weathering. https://doi.org/10.1016/j.epsl.2016.03.015|
 |Week 6| Schopka et al. (2011) Chemical weathering, river geochemistry and atmospheric carbon fluxes from volcanic and ultramafic regions on Luzon Island, the Philippines. https://doi.org/10.1016/j.gca.2010.11.014|
