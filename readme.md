@@ -13,7 +13,7 @@ Time location TBD
 |Week 7| Hartmann et al. (2014) Global chemical weathering and associated P-release — The role of lithology, temperature and soil properties. http://dx.doi.org/10.1016/j.chemgeo.2013.10.025|
 |Week 8| Riebe et al. (2004) Erosional and climatic effects on long-term chemical weathering rates in granitic landscapes spanning diverse climate regimes https://doi.org/10.1016/j.epsl.2004.05.019|
 |Week 9| Maher and Chamberlain (2014) Hydrologic Regulation of Chemical Weathering and the Geologic Carbon Cycle. http://dx.doi.org/10.1126/science.1250770|
-|Week 10| West (2012) Thickness of the chemical weathering zone and implications for erosional and climatic drivers of weathering and for carbon-cycle feedbacks. https://doi.org/10.1130/G33041.1|
+|Week 10| Gabet and Mudd (2009) A theoretical model coupling chemical weathering rates with denudation rates https://doi.org/10.1130/G25270A.1; West (2012) Thickness of the chemical weathering zone and implications for erosional and climatic drivers of weathering and for carbon-cycle feedbacks. https://doi.org/10.1130/G33041.1|
 |Week 11| Maffre et al. (2018) Mountain ranges, climate and weathering. Do orogens strengthen or weaken the silicate weathering carbon sink? https://doi.org/10.1016/j.epsl.2018.04.034|
 |Week 12| Michalopoulos and Aller (1995) Rapid Clay Mineral Formation in Amazon Delta Sediments: Reverse Weathering and Oceanic Elemental Cycles https://doi.org/10.1126/science.270.5236.614|
 |Week 13| Brady and Gislason (1997) Seafloor weathering controls on atmospheric CO2 and global climate https://doi.org/10.1016/S0016-7037(96)00385-7|
