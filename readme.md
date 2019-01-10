@@ -1,4 +1,4 @@
-## Spring 2019 Silicate Weathering Seminar
+## Spring 2019 Silicate Weathering Reading Group
 
 Time location TBD
 
