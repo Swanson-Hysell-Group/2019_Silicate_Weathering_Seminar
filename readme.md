@@ -24,3 +24,4 @@ Other papers to potentially swap out/add with ones on list:
 - Norton et al. (2014) The role of climate-driven chemical weathering on soil production. http://dx.doi.org/10.1016/j.geomorph.2013.08.030
 - Hartmann et al. (2009) Global CO2-consumption by chemical weathering: What is the contribution of highly active weathering regions? http://dx.doi.org/10.1016/j.gloplacha.2009.07.007
 - Winnick and Maher (2018) Relationships between CO2, thermodynamic limits on silicate weathering, and the strength of the silicate weathering feedback. https://doi.org/10.1016/j.epsl.2018.01.005
+- Rahman et al. (2017) The Missing Silica Sink: Revisiting the Marine Sedimentary Si Cycle Using Cosmogenic 32Si https://doi.org/10.1002/2017GB005746 (Higgins suggestion)
