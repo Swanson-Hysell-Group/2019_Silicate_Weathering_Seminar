@@ -21,6 +21,7 @@ Time location TBD
 |Week 15| Winnick and Maher (2018) Relationships between CO2, thermodynamic limits on silicate weathering, and the strength of the silicate weathering feedback. https://doi.org/10.1016/j.epsl.2018.01.005 |
 
 Other papers to potentially swap out/add with ones on list:
+- West et al. (2005) Tectonic and climatic controls on silicate weathering https://doi.org/10.1016/j.epsl.2005.03.020
 - Coogan and Gillis (2013) Evidence that low‐temperature oceanic hydrothermal systems play an important role in the silicate‐carbonate weathering cycle and long‐term climate regulation https://doi.org/10.1002/ggge.20113 
 - Norton et al. (2014) The role of climate-driven chemical weathering on soil production. http://dx.doi.org/10.1016/j.geomorph.2013.08.030
 - Hartmann et al. (2009) Global CO2-consumption by chemical weathering: What is the contribution of highly active weathering regions? http://dx.doi.org/10.1016/j.gloplacha.2009.07.007
