@@ -26,3 +26,6 @@ Other papers to potentially swap out/add with ones on list:
 - Norton et al. (2014) The role of climate-driven chemical weathering on soil production. http://dx.doi.org/10.1016/j.geomorph.2013.08.030
 - Hartmann et al. (2009) Global CO2-consumption by chemical weathering: What is the contribution of highly active weathering regions? http://dx.doi.org/10.1016/j.gloplacha.2009.07.007
 - Rahman et al. (2017) The Missing Silica Sink: Revisiting the Marine Sedimentary Si Cycle Using Cosmogenic 32Si https://doi.org/10.1002/2017GB005746 (Higgins suggestion)
+- Kump (2018) Prolonged Late Permian–Early Triassic hyperthermal: failure of climate regulation? https://doi.org/10.1098/rsta.2017.0078
+- Caves et al. (2016) Cenozoic carbon cycle imbalances and a variable weathering feedback https://doi.org/10.1016/j.epsl.2016.06.035
+- van der Ploeg et al. (2018) Middle Eocene greenhouse warming facilitated by diminished weathering feedback https://doi.org/10.1038/s41467-018-05104-9 
