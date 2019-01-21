@@ -1,6 +1,6 @@
 ## Spring 2019 Silicate Weathering Reading Group
 
-Time location TBD
+11 am to noon on Wednesdays in McCone 401 
 
 | Meeting Date | Reading |
 |--------------|--------------|
