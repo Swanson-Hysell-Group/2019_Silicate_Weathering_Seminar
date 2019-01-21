@@ -1,4 +1,4 @@
-## Spring 2019 Silicate Weathering Reading Group
+## Spring 2019 Silicate Weathering Reading Seminar
 
 11 am to noon on Wednesdays in McCone 401 
 
