@@ -13,7 +13,7 @@
 |Week 7| Riebe et al. (2004) Erosional and climatic effects on long-term chemical weathering rates in granitic landscapes spanning diverse climate regimes https://doi.org/10.1016/j.epsl.2004.05.019|
 |Week 8 March 13th| West et al. (2005) Tectonic and climatic controls on silicate weathering https://doi.org/10.1016/j.epsl.2005.03.020 |
 |Week 9 March 20th| Maher and Chamberlain (2014) Hydrologic Regulation of Chemical Weathering and the Geologic Carbon Cycle. http://dx.doi.org/10.1126/science.1250770 |
-|Week 10| Goddéris et al. (2017) Onset and ending of the late Palaeozoic ice age triggered by tectonically paced rock weathering https://doi.org/10.1038/NGEO2931 |
+|Week 10 April 3rd| Goddéris et al. (2017) Onset and ending of the late Palaeozoic ice age triggered by tectonically paced rock weathering https://doi.org/10.1038/NGEO2931 |
 |Week 11| Kump (2018) Prolonged Late Permian–Early Triassic hyperthermal: failure of climate regulation? https://doi.org/10.1098/rsta.2017.0078 |
 |Week 12| Hoareau et al. (2015) Did high Neo-Tethys subduction rates contribute to early Cenozoic warming? https://doi.org/10.5194/cp-11-1751-2015 |
 |Week 13| Torres et al. (2014) Sulphide oxidation and carbonate dissolution as a source of CO2 over geological timescales https://doi.org/10.1038/nature13030 |
